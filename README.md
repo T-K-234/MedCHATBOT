@@ -4,11 +4,11 @@
 
 ## Project Overview
 
-**MedBot** is an AI-powered healthcare chatbot designed to assist users in identifying possible diseases based on their symptoms. The system uses **Natural Language Processing (NLP), fuzzy logic, and ensemble machine learning models** to analyze user-provided symptoms and predict potential diseases.
+MedBot is an AI-powered healthcare chatbot designed to assist users in identifying possible diseases based on their symptoms. The system uses Natural Language Processing (NLP), fuzzy logic, and ensemble machine learning models to analyze user-provided symptoms and predict potential diseases.
 
 Users interact with the chatbot by entering symptoms in natural language. The system extracts relevant medical terms, processes them using fuzzy matching to handle variations in wording, and predicts the most likely disease using multiple machine learning models.
 
-The final prediction is generated using an **ensemble majority voting approach**, improving reliability and accuracy across different disease classes.
+The final prediction is generated using an ensemble majority voting approach, improving reliability and accuracy across different disease classes.
 
 ---
 
